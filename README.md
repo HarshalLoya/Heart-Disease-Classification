@@ -73,7 +73,7 @@ For a more detailed explanation of each feature, refer to the data dictionary be
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/HarshalLoya/heart-disease-classification.git
+   git clone https://github.com/HarshalLoya/Heart-Disease-Classification.git
    ```
 2. Install the required packages
    ```bash
